@@ -1,0 +1,18 @@
+第三方软件声明
+==============
+
+本程序包含以下开源组件：
+
+- Python：Python Software Foundation License
+  https://www.python.org/
+- Tcl/Tk：Tcl/Tk License
+  https://www.tcl.tk/
+- Pillow 12.1.0：MIT-CMU License
+  https://python-pillow.github.io/
+- pypdfium2 5.13.0：BSD-3-Clause / Apache-2.0 及其 PDFium 依赖许可
+  https://pypdfium2.readthedocs.io/
+- PDFium 及其第三方依赖：各组件许可详见 licenses/pypdfium2 目录
+
+构建脚本会把已安装运行时随附的完整许可证文件复制到便携目录的
+licenses 文件夹。本文件仅作索引，具体条款以对应许可证全文为准。
+

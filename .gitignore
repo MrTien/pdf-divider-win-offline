@@ -1,0 +1,15 @@
+.venv-build/
+.build-packages/
+.dev-packages/
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+tmp/
+.pytest_cache/
+.idea/
+.vscode/
+*.log
+Thumbs.db
+.DS_Store
